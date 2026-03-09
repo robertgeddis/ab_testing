@@ -4,7 +4,7 @@
 A selection of SQL code to demonstrate the frameworks established to design, monitor, and analyze tests across multiple markets. 
 These scripts provided the infrastructure to drive decisions on new features, marketing approaches and pricing stratigies through rigorous testing.
 
-## 🚀 Key Areas
+## 📈 Focus Areas
 This library covers several critical business domains:
 * **Pricing Elasticity:** Analyzing user behavior and conversion rates across different price points.
 * **Profile Ranking:** Measuring the impact of changes to algorith for presenting profiles to better match user expectation.
