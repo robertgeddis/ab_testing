@@ -14,8 +14,7 @@ This library covers several critical business domains:
 To maintain a high standard of experimental integrity, these scripts feature:
 * **Testcell Assignment:** Ensuring users are correctly attributed to 'Control' vs 'Variant' groups at the point of first interaction.
 * **Metric Standardization:** A unified matrix to compare primary KPIs (visitor to basic, basic to premium conversion) and secondary guardrail metrics (e.g., Churn or Unsubscribes) across all tests.
-* **Statistical Rigor:** SQL logic designed to output raw data structured for significance testing (Z-tests/T-tests) in downstream tools like Tableau or Amplitude.
-* **Scalability:** Modular code that allows for analysis to filter by market, device, or user segment.
+* **Statistical Rigor:** SQL logic designed to output raw data structured for significance and confidence in downstream tools like Tableau and Amplitude.
 
 ## 💼 Business Impact
 These frameworks enabled the product and marketing teams to:
