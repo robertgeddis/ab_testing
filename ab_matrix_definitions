@@ -84,11 +84,4 @@ SELECT 'ca','monolith-unmasked-auto-app-ab','monolith-unmasked-auto-app-ab','S-m
 SELECT 'ch','monolith-unmasked-auto-app-ab','monolith-unmasked-auto-app-ab','S-monolith-unmasked-auto-app-ab-C','Control','Test','- Control: Current inbox view - Test: Unmasking AutoApps','' UNION
 SELECT 'uk','monolith-unmasked-auto-app-ab','monolith-unmasked-auto-app-ab','S-monolith-unmasked-auto-app-ab-C','Control','Test','- Control: Current inbox view - Test: Unmasking AutoApps','' UNION
 
-SELECT 'de','monolith-new-banner-headline-ab','UrgencyBanner','V-monolith-new-banner-headline-ab-C','Control','Test','- Control: Current urgency banner (buttons black) - Test: Urgency buttons in navy','' 
-
--- </query>	
-;
-commit;
-
-select * from analytics_prod.INTL_AB_Matrix_Definitions;
-
+SELECT 'de','monolith-new-banner-headline-ab','UrgencyBanner','V-monolith-new-banner-headline-ab-C','Control','Test','- Control: Current urgency banner (buttons black) - Test: Urgency buttons in navy
