@@ -1,6 +1,5 @@
 # A/B Testing 
 
-## 📌 Overview
 A selection of SQL code to demonstrate the frameworks established to design, monitor, and analyze tests across multiple markets. 
 These scripts provided the infrastructure to drive decisions on new features, marketing approaches and pricing stratigies through rigorous testing.
 
